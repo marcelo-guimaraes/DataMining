@@ -565,3 +565,178 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1602528595497	geckodriver	INFO	Listening on 127.0.0.1:37509
+1602528596514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezYzIhj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602528611869	Marionette	INFO	Listening on port 39833
+1602528611907	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1602528742956	Marionette	INFO	Stopped listening on port 39833
+1602528873261	geckodriver	INFO	Listening on 127.0.0.1:59087
+1602528874272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQeqzEH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602528890687	Marionette	INFO	Listening on port 45363
+1602528890718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602529191824	geckodriver	INFO	Listening on 127.0.0.1:36399
+1602529192827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVcjvEI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602529201572	Marionette	INFO	Listening on port 34565
+1602529201941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602529273497	Marionette	INFO	Stopped listening on port 34565
+1602543884936	geckodriver	INFO	Listening on 127.0.0.1:33077
+1602543885999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO6JJpZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602543927589	Marionette	INFO	Listening on port 45217
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602543928543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602544000438	Marionette	INFO	Stopped listening on port 45217
+1602544303787	geckodriver	INFO	Listening on 127.0.0.1:39433
+1602544304854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehqTb3y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602544317805	Marionette	INFO	Listening on port 41633
+1602544317894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602544375596	Marionette	INFO	Stopped listening on port 41633
+1602544376121	geckodriver	INFO	Listening on 127.0.0.1:34389
+1602544377182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFTij9p"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602544383868	Marionette	INFO	Listening on port 33497
+1602544383947	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602544399520	Marionette	INFO	Stopped listening on port 33497
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602544604403	geckodriver	INFO	Listening on 127.0.0.1:38245
+1602544604410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyx6AJX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602544611132	Marionette	INFO	Listening on port 45985
+1602544611145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602544631329	Marionette	INFO	Stopped listening on port 45985
+1602544673900	geckodriver	INFO	Listening on 127.0.0.1:55497
+1602544674668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevzYcHZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602544679406	Marionette	INFO	Listening on port 46269
+1602544679510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602544979720	Marionette	INFO	Stopped listening on port 46269
+1602545139937	geckodriver	INFO	Listening on 127.0.0.1:54047
+1602545139983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekhH1vy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602545144791	Marionette	INFO	Listening on port 35727
+1602545144845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602545171960	geckodriver	INFO	Listening on 127.0.0.1:53711
+1602545172914	Marionette	INFO	Stopped listening on port 35727
+1602545172982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLZD9Jq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602545177745	Marionette	INFO	Listening on port 43417
+1602545177859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602545281688	geckodriver	INFO	Listening on 127.0.0.1:51781
+1602545282704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebEzUGy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602545287441	Marionette	INFO	Listening on port 37585
+1602545287539	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602545496094	geckodriver	INFO	Listening on 127.0.0.1:48823
+1602545496791	Marionette	INFO	Stopped listening on port 37585
+1602545497110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEgMHNd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602545502611	Marionette	INFO	Listening on port 39105
+1602545502662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602545513131	geckodriver	INFO	Listening on 127.0.0.1:39333
+1602545514139	Marionette	INFO	Stopped listening on port 39105
+1602545514143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb6NS4Y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602545519278	Marionette	INFO	Listening on port 36393
+1602545519369	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602545532523	geckodriver	INFO	Listening on 127.0.0.1:40315
+1602545532542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel3dU4r"
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1602545568359	geckodriver	INFO	Listening on 127.0.0.1:45497
+1602545569375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDkxR69"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602545574098	Marionette	INFO	Listening on port 40963
+1602545574198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602545874363	Marionette	INFO	Stopped listening on port 40963
+1602545875584	geckodriver	INFO	Listening on 127.0.0.1:59479
+1602545875598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVz3yJf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2403: TypeError: event.target.closest is not a function
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602545881823	Marionette	INFO	Listening on port 39951
+1602545881844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602546181950	Marionette	INFO	Stopped listening on port 39951
+1602546183234	geckodriver	INFO	Listening on 127.0.0.1:37893
+1602546183247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW4gXL3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602546188051	Marionette	INFO	Listening on port 37733
+1602546188075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602546197853	geckodriver	INFO	Listening on 127.0.0.1:54455
+1602546197906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWwlPqO"
+1602546200108	Marionette	INFO	Stopped listening on port 37733
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602546204280	Marionette	INFO	Listening on port 44969
+1602546204345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1602546204951	geckodriver	INFO	Listening on 127.0.0.1:38353
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602546206016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehexSqT"
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1602546229015	geckodriver	INFO	Listening on 127.0.0.1:38653
+1602546230030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQp6ZyF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602546235063	Marionette	INFO	Listening on port 41211
+1602546235164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602546566167	Marionette	INFO	Stopped listening on port 41211
